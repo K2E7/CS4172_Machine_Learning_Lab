@@ -1,4 +1,4 @@
-# CS4172_Machine_Learning
+# CS4172_Machine_Learning - IIESTS
 
 ## Description
 Welcome to the CS4172_Machine_Learning repository! Here, you will find a comprehensive collection of code, statements, and reports for all of my machine learning assignments during my college journey. As a dedicated student passionate about machine learning, I have diligently organized and documented my progress throughout various CS4172 Machine Learning courses and projects.
