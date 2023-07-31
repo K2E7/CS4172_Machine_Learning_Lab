@@ -8,7 +8,7 @@ Welcome to the CS4172_Machine_Learning repository! Here, you will find a compreh
 
 2. **Statements:** In this directory, you will find the original problem statements provided by the professors or course instructors. These statements outline the specific requirements, datasets, and evaluation metrics for each assignment.
 
-3. **Reports:** The "Reports" directory contains detailed documentation of my approaches, methodologies, experiments, and results for each CS4172 assignment. The reports are written in Markdown or LaTeX format, supplemented with charts, graphs, and diagrams to present the findings effectively.
+3. **Reports:** The "Reports" directory contains detailed documentation of my approaches, methodologies, experiments, and results for each CS4172 assignment. The reports are written in Markdown and/or pdf format, supplemented with charts, graphs, and diagrams to present the findings effectively.
 
 4. **Data:** For transparency and reproducibility, this folder contains the datasets used in the CS4172 assignments. In case any data preprocessing or specific data transformations were applied, those details will be mentioned in the respective assignment's report.
 
