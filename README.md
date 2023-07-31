@@ -19,6 +19,6 @@ The primary purpose of creating this repository is to showcase my progress and p
 I welcome contributions, feedback, and suggestions from the CS4172 community. If you find any improvements to the code, better approaches to problem-solving, or ways to optimize the reports, please feel free to open issues or submit pull requests. Together, we can build a robust resource for future CS4172 Machine Learning enthusiasts.
 
 ## Licensing
-Unless otherwise stated, the content in this repository is licensed under the appropriate open-source license (e.g., MIT License). The licensing details for each CS4172 assignment can be found in their respective directories.
+Unless otherwise stated, the content in this repository is licensed under the MIT License.
 
 Thank you for visiting the CS4172_Machine_Learning repository! I hope you find this resource informative and helpful. Let's embark on this exciting journey of machine learning in CS4172 together!
